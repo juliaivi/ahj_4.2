@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/94ab0n95e38a56uh?svg=true)](https://ci.appveyor.com/project/juliaivi/ahj-4-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/011wq481y95hq4sv?svg=true)](https://ci.appveyor.com/project/juliaivi/ahj-4-2)
 ### Puppeteer* (задача со звёздочкой)
 
 Важно: эта задача не является обязательной. Её (не)выполнение не влияет на получение зачёта по ДЗ.
